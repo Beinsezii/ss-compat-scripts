@@ -1,5 +1,5 @@
 # ss-compat-scripts
-Python scripts to automatically fix compatibiltiy issues with mods on unix OSes with case-sensitive filesystems (Linux/Steam Deck/Mac OSX)
+Python scripts to automatically fix compatibiltiy issues with Star Sector mods on unix OSes with case-sensitive filesystems (Linux/Steam Deck/Mac OSX)
 
 ## Usage
 Put the python file in your mod root directory and run it. Python is natively available on most systems.
