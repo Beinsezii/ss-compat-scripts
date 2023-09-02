@@ -2,6 +2,12 @@
 """
 Put in mod root folder and run.
 Makes every single png file name and reference lowercase.
+
+Very comprehensive; should fix just about anything automatically
+including things that weren't even broken.
+
+Vanilla and core mods seem to all expect lowercase so this
+nuclear approach is technically optimal to avoid future problems
 """
 __author__ = "Beinsezii"
 __license__ = "GNU GPL V3"
