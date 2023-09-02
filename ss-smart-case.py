@@ -7,7 +7,7 @@ Also changes all backslashes to forward slashes
 Less complete than the murder case approach.
 Will not fix issues like "sHiP_glow1.png" since
 the glow names are inferred and not referenced directly.
-'Will also not fix incorrectly referencing vanilla assets.
+Will also not fix incorrectly referencing vanilla assets.
 """
 __author__ = "Beinsezii"
 __license__ = "GNU GPL V3"
